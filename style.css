@@ -1,0 +1,29 @@
+*{
+    font-family: 'Roboto', sans-serif;
+
+}
+.hero-bg{
+    background-color: #6d72f6;
+}
+.icon{
+   margin-left: 2rem;
+   color: blue;
+   padding: 2px;
+    font-size: 30px;
+}
+.container{
+    /* background-color:white; */
+}
+
+.animation-img img{
+    transition: 1.8s;
+}
+
+.animation-img img:hover{
+
+    transform: scale(1.1);
+}
+.account-bg{
+    background-color: #f7f7fc;
+}
+
