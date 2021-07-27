@@ -4,6 +4,7 @@
 }
 .hero-bg{
     background-color: #6d72f6;
+
 }
 .icon{
    margin-left: 2rem;
@@ -27,3 +28,15 @@
     background-color: #f7f7fc;
 }
 
+.card-home-per{
+   max-width: 115px;
+    margin-top: 33px;
+    margin-left: 140px;
+}
+.cards-section{
+    border: 10px !important;
+    margin-top: 10px;
+}
+.card-border{
+    border-radius: 20% !important;
+}
